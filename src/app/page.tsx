@@ -327,11 +327,7 @@ export default function Home() {
 
         <Section title="من نحن">
           <p className="max-w-2xl mx-auto text-center text-lg text-gray-700">
-<<<<<<< HEAD
             برج الجوال وجهتك الأولى لأحدث الهواتف والإكسسوارات الأصلية. نحرص على تجربة شراء
-=======
-            Mobile Shop وجهتك الأولى لأحدث الهواتف والإكسسوارات الأصلية. نحرص على تجربة شراء
->>>>>>> c239b47e1919e957092448c33bd38a4c1dd647f9
             سهلة وسريعة ودعم مابعد البيع لتكون راضيًا دائمًا.
           </p>
         </Section>
@@ -349,7 +345,7 @@ export default function Home() {
       <footer className="border-t border-gray-200 mt-10">
         <div className="max-w-7xl mx-auto px-4 md:px-6 py-10 text-center text-sm text-gray-600">
           <p className="text-primary font-semibold">
-            © {new Date().getFullYear()} برج الجوال. جميع الحقوق محفوظة.
+            © {new Date().getFullYear()} برج الجوال جميع الحقوق محفوظة.
           </p>
           <p className="opacity-80 mt-1">اختيارات ذكية، تجربة أذكى.</p>
         </div>
